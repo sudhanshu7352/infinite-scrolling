@@ -7,7 +7,7 @@ container.addEventListener("scroll",()=>{
             loadContent()
 
         }
-    },800)
+    },700)
 })
 
 let count=1
